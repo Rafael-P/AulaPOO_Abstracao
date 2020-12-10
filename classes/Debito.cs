@@ -5,6 +5,10 @@ namespace POO_Abstracao.classes
         //Atributos
         private float saldo = 600;
 
+        public float Saldo{
+            get{return saldo;}
+        }
+
 
         //Metodos
         public void Pagar(float valor){

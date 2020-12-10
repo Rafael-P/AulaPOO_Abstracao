@@ -4,6 +4,10 @@ namespace POO_Abstracao.classes
     {
         //Atributos
         private float limite;
+        public float Limite{
+            get{return limite;}
+            set{limite = value;}
+        }
 
 
         //Metodos
