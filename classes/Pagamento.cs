@@ -5,8 +5,16 @@ namespace POO_Abstracao.classes
     abstract public class Pagamento
     {
         //Atributos
-        private DateTime data;
+        private DateTime dataDePagamento = DateTime.Now;
+        public DateTime DataDePagamento{
+            get{return DateTime.Now;}
+        }
+
         protected float valor;
+        public float Valor{
+            get{return valor;}
+            set{valor = value;}
+        }
 
 
         //Metodos
@@ -15,7 +23,7 @@ namespace POO_Abstracao.classes
         }
 
         //Quando um metodo é abstract ele obrigatoriamente tem que ser inserido manualmente nas subclasses
-        public abstract string Desconto(int valor);
+        public abstract string Desconto(float valor);
 
 
     }//Pagamento

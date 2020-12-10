@@ -3,7 +3,7 @@ namespace POO_Abstracao.classes
     public class Credito : Cartao
     {
         //Atributos
-        private float limite;
+        private float limite = 1000;
         public float Limite{
             get{return limite;}
             set{limite = value;}
@@ -16,7 +16,7 @@ namespace POO_Abstracao.classes
         }
 
         //Obrigatorio inserir esta classe
-        public override string Desconto(int valor)
+        public override string Desconto(float valor)
         {
             return "";
         }

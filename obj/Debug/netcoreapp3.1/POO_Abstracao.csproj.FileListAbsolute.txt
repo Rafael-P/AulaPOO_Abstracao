@@ -1,0 +1,13 @@
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.exe
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.deps.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.dev.json
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csprojAssemblyReference.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfoInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfo.cs
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.genruntimeconfig.cache
