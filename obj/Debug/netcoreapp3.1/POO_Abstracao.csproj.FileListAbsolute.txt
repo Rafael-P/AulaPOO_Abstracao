@@ -11,3 +11,16 @@ C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3
 C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.dll
 C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.pdb
 C:\Users\R4f4e\OneDrive\Área de Trabalho\C#\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.genruntimeconfig.cache
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.exe
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.deps.json
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.json
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfo.cs
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\dev\Desktop\Abstracao\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.genruntimeconfig.cache

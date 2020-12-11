@@ -86,8 +86,8 @@ namespace POO_Abstracao
                                     Console.WriteLine("Digite o valor da compra:");
                                     credito.Valor = float.Parse(Console.ReadLine());
                                     Console.WriteLine("Em quantas vezes você deseja pagar");
-                                    
-
+                                    credito.parcelas = int.Parse(Console.ReadLine());
+                                    credito.Pagar(credito.Valor);
                                 break;
 
                                 default:
